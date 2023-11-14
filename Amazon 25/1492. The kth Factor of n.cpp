@@ -2,6 +2,8 @@
 
     Input : n = 12,
             k = 3 Output : 3 Explanation : Factors list is[1, 2, 3, 4, 6, 12], the 3rd factor is 3.
+
+    TC - O(sqrt(n))
 */
 
 // Brute force - find all the factors and return the kth factor
