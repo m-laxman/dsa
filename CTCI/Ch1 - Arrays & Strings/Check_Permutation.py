@@ -1,5 +1,7 @@
 ''' Check Permutation: Given two strings, write a method to decide if one is a permutation of the other
     242. Valid Anagram
+    Input: s = "anagram", t = "nagaram"
+    Output: true
 '''
 
 # O(n), O(n)
