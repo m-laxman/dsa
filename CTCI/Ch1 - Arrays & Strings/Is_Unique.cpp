@@ -1,5 +1,8 @@
 /* Is Unique: Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?
 LC - 217. Contains Duplicate
+
+Input: nums = [1,2,3,1]
+Output: true
 */
 
 // O(nlogn), O(1)
