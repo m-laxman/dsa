@@ -1,7 +1,7 @@
 /*
     208. Implement Trie (Prefix Tree)
     Insert, search and startsWith methods
-    // O(n)
+    O(n)
 */
 
 struct Node {
