@@ -1,3 +1,9 @@
+/*
+    208. Implement Trie (Prefix Tree)
+    Insert, search and startsWith methods
+    // O(n)
+*/
+
 struct Node {
     Node* links[26] = {0};
     bool end = false;
